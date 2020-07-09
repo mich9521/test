@@ -9,17 +9,16 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<!--DIV CONTENEDOR-->
     <div class="container">
-        <h1>Ecommerce</h1>
+        <div class="row">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga incidunt hic dolorum totam quas. Tenetur</p>
+        <!-- navigator-->
 
-        <form action="">
-            <div class="row">
-                <div class="input-group">
-                    <div class="input-group-text">$</div>
-                    <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
-                </div>
-            </div>
-        </form>
+        <nav>
+        </nav>
+        </div>
+
     </div>
 </body>
 <script src="https://kit.fontawesome.com/0f7c40475c.js" crossorigin="anonymous"></script>
