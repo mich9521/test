@@ -1,0 +1,26 @@
+body{
+background-color:#FD6747 ;
+margin: 0;
+height: 100vh;
+display: grid;
+justify-items: center;
+align-items: center;
+font-family: 'Nunito', 'sans-serif';
+}
+
+.container{
+    width: 30% ;
+    background-color:#FE775A;
+    border-radius: 10px; 
+
+    .inner{
+        background:white;
+        padding: 1em;
+        border-radius: 10px;
+        width: 100%;
+    }
+    h1{
+        color:white;
+    }
+}
+
