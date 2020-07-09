@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<!--DIV CONTENEDOR-->
+<!--DIV CONTENEDOR 02-->
     <div class="container">
         <div class="row">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga incidunt hic dolorum totam quas. Tenetur</p>
